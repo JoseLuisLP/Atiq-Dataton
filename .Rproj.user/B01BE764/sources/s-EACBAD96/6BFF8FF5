@@ -3,7 +3,7 @@
     "path": "~/GitHub/R proyectos/Atiq-Dataton/Scripts/Script_scraping_GR.R",
     "project_path": "Scripts/Script_scraping_GR.R",
     "type": "r_source",
-    "hash": "3383831350",
+    "hash": "4146725033",
     "contents": "",
     "dirty": false,
     "created": 1642213885465.0,
@@ -17,11 +17,11 @@
         "scrollLine": "202"
     },
     "folds": "",
-    "lastKnownWriteTime": 1642214139,
+    "lastKnownWriteTime": 1642214440,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1642214139983,
+    "last_content_update": 1642214440396,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -192,4 +192,4 @@ server$stop()
 #Leer la data
 DataProyectosGN <- readRDS(file ="Data/DataProyectosGN.rds")
 #Guardar en excel
-write.xlsx(DataProyectosGN,file ="Data/DataProyectosGobN.xlsx" )
+write.xlsx(DataProyectosGN,file ="Data/DataProyectosGN.xlsx")

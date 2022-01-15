@@ -204,7 +204,7 @@ for (j in 2:5) {
 
 
 #Guardar la toda la información
-saveRDS(DataProyectosGR,file = "Data/DataProyectosGobR.rds") #
+saveRDS(DataProyectosGR,file = "Data/DataProyectosGR.rds") #
 
 length(unique(DataProyectosGR$ProductoProyecto))
 
@@ -215,4 +215,4 @@ server$stop()
 #Leer el archivo
 DataProyectosGR <- readRDS(file = "Data/DataProyectosGR.rds")
 #Guardar en excel
-write.xlsx(DataProyectosGR,file ="Data/DataProyectosGobR.xlsx")
+write.xlsx(DataProyectosGR,file ="Data/DataProyectosGR.xlsx")
